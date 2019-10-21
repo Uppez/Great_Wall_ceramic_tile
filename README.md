@@ -13,4 +13,4 @@
 
 如果你想贡献此项目请扫描下面二维码：
 
-[](https://i.loli.net/2019/09/17/zitwDTMAfXQ2aoq.png)
+![](https://i.loli.net/2019/09/17/zitwDTMAfXQ2aoq.png)
