@@ -1,2 +1,16 @@
-# Great_Wall_ceramic_tile
+# 项目名称
+
 长城贴瓷砖计划
+
+# 项目历程
+
+2019.10.21   启动项目
+
+# 项目贡献
+
+
+# 项目支持
+
+如果你想贡献此项目请扫描下面二维码：
+
+[](https://i.loli.net/2019/09/17/zitwDTMAfXQ2aoq.png)
